@@ -1,9 +1,9 @@
 <?php
 
-// ログを取るか
-ini_set('log_errors','on');
-// ログの出力先ファイルを指定
-ini_set('error_log','php.log');
+// // ログを取るか
+// ini_set('log_errors','on');
+// // ログの出力先ファイルを指定
+// ini_set('error_log','php.log');
 // セッションを使う
 session_start();
 
